@@ -1,0 +1,16 @@
+{
+  "id":"./",
+  "name":"하루잠 - 한국어 CBT-I 수면 학습",
+  "short_name":"하루잠",
+  "description":"완전 무료 한국어 불면증 인지행동치료 교육과 수면일지. 진단·처방용 의료기기가 아닙니다.",
+  "lang":"ko-KR",
+  "start_url":"./",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#f7f8f4",
+  "theme_color":"#174a47",
+  "icons":[
+    {"src":"./icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
